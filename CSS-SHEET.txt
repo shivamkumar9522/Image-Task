@@ -1,0 +1,97 @@
+                        CSS Intervivew Qustions
+
+Q.1What does CSS stand for?
+ANS:-CSS is stands for cascading style seet.
+
+Q2.What is the purpose of CSS?
+ANS:-CSS is use for styling in html page.
+
+Q3.How do you include CSS in an HTML document?
+ANS:- we can include css in an html document in three way
+           1.inline css:- by using style attribute.
+           2.internal css:- by using <style>elemnt in head section.
+           3.extrnal css:- by the creat new file and link to html document.
+
+Q4. What is the difference between inline, internal, and external CSS?
+ANS:- the different between inline, internal,and extranal css:-
+           1.inline css:- by using style attribute.
+           2.internal css:- by using <style>elemnt in head section.
+           3.extrnal css:- by the creat new file and link to html document.
+
+Q5.What is the syntax of a CSS rule?
+ANS:- CSS rule consists selector,property,and property value.
+
+Q6.What are CSS selectors? Give examples.
+ANS:- the css selctor is use to select the html element which you want           to style.
+          EX:- css id selector ,universal selector, class selector.
+
+Q7.What is the purpose of the id selector in CSS?
+ANS:-the id selector uses the id attribute of html element to select          spacific element.
+ 
+Q8.How does the class selector differ from the id selector?
+ANS:- id selector  is specific to a single element, classes selector can be           assigned to multiple elements on a page . 
+
+Q9.What is a pseudo-class? Give examples.
+ANS:-A pseudo class is keyword that added to a selector to define a          special state of an element.
+         Ex:-style an element mouse over iffect.
+
+Q10.What is a pseudo-element? Give examples.
+ANS:- a pseudo elelment is used to style specified parts of an element.
+           Ex:-style first line first letter of element.
+             syntax:- p::first line{
+                                           color :red;
+                                         }
+Q11.How do you apply multiple classes to an element in CSS?
+ ANS:-we  can apply CSS to multiple classes by separating them with           (,)commas .
+           ex:- class1,class2{
+                                          } 
+
+Q12.How do you center an element horizontally and vertically using CSS?
+ANS:- we can do center an element using display:flex and           display:grid,postition:absolute etc.
+Q13.What is the box model in CSS?
+ANS:-The CSS box model is  a box that wraps around every HTML          element. It consists of content ,padding, borders and margins.
+Q14.How do you change the background color of an element in CSS?
+ANS:- if we want to change backgroung color wherewe used to           background color property which syntax  is :- background-          color:red;
+
+Q15.What is the difference between margin and padding?
+ANS:-margin is the space outside of page element,
+         and  padding is the space surrounding content within a web                   element.
+
+Q16.How do you create a CSS grid layout?
+ANS:- CSS grid, add the display property to our container element and             set it to grid.
+
+Q17.What is Flexbox in CSS?
+ANS:-a flex box is a one dimantional model for distribute the space          between iteams.
+
+Q18.How do you use media queries to create a responsive design?
+ANS:- Media queries are a key part of responsive web design, as they           allow you to create different layouts depending on the size of the           viewport.
+
+Q19.What is the purpose of the z-index property?
+ANS:-z-index is the CSS property that controls the stacking order of          overlapping elements on a page.
+
+Q20.How do you add a border to an element in CSS?
+ANS:-we can add border to an element using border property
+         synatax of border property is  border: 5px solid red; .
+
+Q21.What is the difference between display: none; and visibility: hidden;?
+ANS:- display none:-means remove the element from documents.
+                                  it does not take space.
+           display visibility hidden:- hides the element  but still  take up                                                     space in layout.
+Q22.How do you add a shadow to an element in CSS?
+ANS:- we can add shadow to an element using the box-shadow           property.
+
+Q23.What is the position property in CSS, and what are its possible values?
+ANS:-The CSS position property defines the position of an element in a          document.
+           five position values  :-  relative, fixed, inherit, static, and absolute.
+
+Q24.How do you use the float property in CSS?
+ANS:- the float property is used  for position and formating of contant.
+
+Q25.What are CSS transitions, and how do you use them?
+ANS:- the css  transitions provide a way to control animation speed           when changing css properties. 
+         
+           
+
+
+
+

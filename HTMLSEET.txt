@@ -1,0 +1,92 @@
+               HTML INTER VIEW QUSTIONS
+Q.1 What does HTML stand for?
+ANS:-Html stands for hyper text markup language which is use to creat web pag.
+
+Q2.What are HTML tags?
+ANS:- Html tags are like a kyword which is use to how web page will formate or display.
+
+Q3.What is the difference between an opening tag and a closing tag?
+ANS:-starting of element  tag is called opning tag and closing tag is end of element is called closing tag.
+ ex:- opening tag:<tag name>
+        closing tag:</tag name>
+
+Q4. What is an HTML attribute?
+ANS:-  Html attribute give additional information about html element.
+           All html can have attributes.
+        Ex:- <a href="links" >some contant </a>
+                 here (href) is a atrribut of <a> tag.
+
+Q5.How do you add a hyperlink in HTML?
+ANS:- if we want to add hyper link in html where is use  ancor tag<a href=""></a> .
+
+Q6.What is the purpose of the alt attribute in an image tag?
+ANS:-The alt attribute is use for an image the full form of alt is altrnet text basically alt attribute work like some time users internet is not good that time image will not load  and not display so where users can know about the image.
+
+Q7.How do you create a list in HTML?
+ANS:- if we want to creat a list in html where we used list tag (li) we also use (ul) and (ol) tag.
+
+Q8.What is the difference between an ordered list and an unordered list?
+ANS:- The maine different between order and unorderd list is that unorder list donate bullats point when we create unorder list and using (ul) tag but in order list donate by  numbers alphabtes etc. using (ol)tag.
+
+Q9.How do you create a table in HTML?
+ANS:-if we want to create table where we use <table> tag .
+
+Q10.What are semantic HTML tags? Give examples.
+ANS:-Semantic tags are those tags whose function can be known as  you see them.
+ Ex:-  <footer><header><main><date><time>
+
+Q11.What is the purpose of the <head> tag?
+ANS:- <head> tag  is use to define head section of html document.
+
+Q12.What does the <title> tag do?
+ANS:-The <title> tag is use to define a title of our web page.
+
+Q13.How do you include a comment in HTML?
+ANS:- basically comment is not a part of our code but comments tell                extra enformation about our code .
+         if we want to include comment in html where we can do <!--                 contant    -->.
+
+Q14.What is the purpose of the <meta> tag?
+ANS:-basically <meta> tag is  meta data means data about data,
+          it also tells the sarch engine more about your page.
+
+Q15.How do you embed a video in an HTML page?
+ANS:- if we want to embed a videos in an html page where we use          <video> tag. 
+
+Q16.How do you create a form in HTML?
+ANS:-we can create form in html page using <form> tag.
+
+Q17.What is the purpose of the <fieldset> and <legend> tags in forms?
+ANS:- <fieldset> tag is used to make group related element in the form.
+           <legend>tag is used to define title of child,s contant.
+
+Q18.What are the different input types available in HTML forms?
+ ANS:- Html inputes:- <inpute type =button>
+                                    <inpute type =email>
+                                    <inpute type =password>
+                                    <inpute type =checkbox>
+                                    <inpute type =radio>
+                                     <inpute type =date>
+                                       <inpute type =time>
+                                        <inpute type =color>.
+
+Q18.How do you create a checkbox in an HTML form?
+ANS:-we can create checkbox in html form using          <inputtype="checkbox"> .
+
+Q19.How do you create a dropdown list in an HTML form?
+Ans:- we can create a dropdown list using <select>and <option> tag.
+
+Q20.How do you use the <iframe> tag?
+ANS:- using <iframe> tag we can do website in inside website.
+           that means we can run another website in our page/webite.
+
+Q21.What is the purpose of the doctype declaration in HTML?
+ANS:-<!DOCTYPE> declration represent a document types,also help the web browser to display currectly. 
+
+Q22.How do you use the <link> tag to include an external CSS file?
+ANS:-  the <link> tag is use  inside the head element  in html page for            include external css file.
+
+Q23.What is the purpose of the <script> tag in HTML?
+ANS:- if we want to write our java script code in html where <script> tag is use.
+
+Q24.How do you use the <base> tag in HTML?
+ANS:-The HTML <base> tag is used to specify a base URL, or target, for relative links. 
